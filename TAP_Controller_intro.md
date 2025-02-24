@@ -1,5 +1,5 @@
 # Purpose of the TAP (Test Access Port) Controller in JTAG and Boundary Scan
-
+ 
 The TAP (Test Access Port) Controller is a state machine that governs the operation of JTAG (IEEE 1149.1), including Boundary Scan, in digital ICs. Its primary function is to control the flow of test instructions and data within a device, enabling efficient testing of internal logic and PCB interconnects without physical probes.
 
 ## Role of TAP Controller in Boundary Scan
