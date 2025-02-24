@@ -6,7 +6,7 @@ Only need to compile `testbench.sv` and `tap_controller.sv`.
 
 ## Setting Verbosity in ModelSim
 You can set verbosity by running:
-
+ 
 ```sh
 vsim -sv_seed random +UVM_VERBOSITY=UVM_LOW -l JTAG_Transcript.log top
 ```
